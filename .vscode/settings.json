@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+      "activityBar.background": "#1da9f9",
+      "javascript.suggest.autoImports": false
+    },
+    "javascript.suggest.autoImports": false,
+    "cSpell.words": [
+      "ADVANCECOSTS",
+      "ALIPAY"
+    ],
+    "files.exclude": {
+        "**/node_modules": true
+    }
+  }
+  
